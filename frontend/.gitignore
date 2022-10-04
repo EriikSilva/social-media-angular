@@ -1,7 +1,6 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 # ./backend
 
-../backend/nodemon.json
 
 # Compiled output
 /dist
@@ -9,6 +8,8 @@
 /out-tsc
 /bazel-out
 /envir
+
+
 
 /src/environments
 
