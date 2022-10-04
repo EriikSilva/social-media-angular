@@ -10,9 +10,9 @@
 /bazel-out
 /envir
 
-.env
 
-/src/environments
+
+# /src/environments
 
 # Node
 /node_modules
