@@ -1,5 +1,5 @@
 const jwt = require("jsonwebtoken");
-//teste
+
 
 module.exports = (req, res, next) => {
   try {
