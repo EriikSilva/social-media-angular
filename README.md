@@ -48,10 +48,13 @@ Este mini projeto apresenta o desenvolvimento basico de como fazer login, guarda
 
 <h2>IMAGENS</h2>
 <h3>Logado</h3>
- <img src="https://user-images.githubusercontent.com/61124602/214822125-70efbf8c-5995-40e7-beb8-1fc666528a27.png">
+ <img src="https://user-images.githubusercontent.com/61124602/214823260-55d998f1-4873-40c4-9bf6-eb089ef614b4.png">
  
+<h3>Criar Post</h3>
+<img src="https://user-images.githubusercontent.com/61124602/214823438-a581ce27-6d3b-42e4-8b55-4a5a7fa8eff1.png">
+
 <h3>Login</h3>
- <img src="https://user-images.githubusercontent.com/61124602/214822318-43b14d7c-59c2-4f25-92f5-007ab097c8ef.png">
+ <img src="https://user-images.githubusercontent.com/61124602/214823546-9fa634d0-ac2c-4e3a-8d90-fc12f0c55dd4.png">
 
 
 
