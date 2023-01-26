@@ -1,7 +1,5 @@
 #projeto de midia social usando mongoDB
 
-##README AINDA TA INCOMPLETO
-
 #Este mini projeto apresenta o desenvolvimento basico de como fazer login, guardar o login, postar conteudo com imagem, editar conteudo, excluir conteudo e
 #fazer logout
 
