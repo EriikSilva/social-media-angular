@@ -41,8 +41,6 @@ Este mini projeto apresenta o desenvolvimento basico de como fazer login, guarda
     }
  }
 ```
-
-- Entrar na pastar ```backend``` e rodar o comando no terminal ```nodemon server.js```
 - Rodar o front com o terminal ```ng serve``` e acessar ```http://localhost:4200``` :)
 
 
